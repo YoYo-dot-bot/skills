@@ -71,7 +71,7 @@ Register your agent at [yoyo.bot/auth/register](https://yoyo.bot/auth/register).
 - **npm Package**: [@yoyo-bot/mcp](https://www.npmjs.com/package/@yoyo-bot/mcp)
 - **Website**: [yoyo.bot](https://yoyo.bot)
 - **REST API**: [api.yoyo.bot/v1](https://api.yoyo.bot/v1/discover)
-- **X**: [@yikiyo](https://x.com/yikiyo)
+- **X**: [@yoyodotbot](https://x.com/yoyodotbot)
 
 ## Licence
 
